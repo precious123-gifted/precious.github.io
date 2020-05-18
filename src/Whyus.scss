@@ -1,0 +1,24 @@
+.why {
+  background-image: url("why.jpg");
+
+  height: 500px;
+  background-size: cover;
+  margin-top: 60px;
+  .content {
+    background-color: rgba(53, 53, 47, 0.486);
+    height: 500px;
+    .words {
+      margin-top: 100px;
+
+      p {
+        font-size: 20px;
+        padding: 7px;
+        font-weight: bold;
+      }
+    }
+  }
+  h2 {
+    border-bottom: 1px solid wheat;
+    font-size: 40px;
+  }
+}
