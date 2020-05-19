@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/luixie/static/css/main.090ad382.chunk.css",
+    "main.js": "/luixie/static/js/main.87c55cfa.chunk.js",
+    "main.js.map": "/luixie/static/js/main.87c55cfa.chunk.js.map",
+    "runtime-main.js": "/luixie/static/js/runtime-main.3e094f2c.js",
+    "runtime-main.js.map": "/luixie/static/js/runtime-main.3e094f2c.js.map",
+    "static/js/2.4fefc3bc.chunk.js": "/luixie/static/js/2.4fefc3bc.chunk.js",
+    "static/js/2.4fefc3bc.chunk.js.map": "/luixie/static/js/2.4fefc3bc.chunk.js.map",
+    "index.html": "/luixie/index.html",
+    "precache-manifest.41a34dc2d8bb960749ba98d00f0e1806.js": "/luixie/precache-manifest.41a34dc2d8bb960749ba98d00f0e1806.js",
+    "service-worker.js": "/luixie/service-worker.js",
+    "static/css/main.090ad382.chunk.css.map": "/luixie/static/css/main.090ad382.chunk.css.map",
+    "static/js/2.4fefc3bc.chunk.js.LICENSE": "/luixie/static/js/2.4fefc3bc.chunk.js.LICENSE",
+    "static/media/luixieslogo.png": "/luixie/static/media/luixieslogo.9bd25fa0.png",
+    "static/media/Footer.scss": "/luixie/static/media/slide1.73149cfd.jpg",
+    "static/media/Slider.scss": "/luixie/static/media/slide7.0ece2349.jpg",
+    "static/media/Whyus.scss": "/luixie/static/media/why.b43e5722.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e094f2c.js",
+    "static/js/2.4fefc3bc.chunk.js",
+    "static/css/main.090ad382.chunk.css",
+    "static/js/main.87c55cfa.chunk.js"
+  ]
+}
